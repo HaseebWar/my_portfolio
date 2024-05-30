@@ -1,12 +1,13 @@
 ---
-date: '2018-12-29'
-title: 'Google Keep Clone'
-github: 'https://github.com/bchiang7/google-keep-vue-firebase'
-external: 'https://keep-vue.netlify.com/'
+date: ''
+title: 'Educational Analysis'
+github: 'https://github.com/HaseebWar/educational-analysis'
+external: '#'
 tech:
-  - Vue
-  - Firebase
+  - ANN 
+  - Prediction
+  - Dataframe
 showInProjects: true
 ---
 
-A simple Google Keep clone built with Vue and Firebase.
+Applied and compared classification algorithms, and found that excessive use of e-learning tools significantly impacts student performance and psychological health.

@@ -1,11 +1,12 @@
 ---
 date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
-url: 'https://web.northeastern.edu/scout/'
+title: 'Junior Data Analyst'
+company: 'Paperless Proposal'
+location: 'Karachi, Pakistan'
+range: 'Jun 2019 - December 2020'
+url: 'https://www.paperless.io/en'
 ---
 
-- Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community
-- Built and delivered technical solutions according to stakeholder business requirements
+- Extracting insights and performing data manipulation in Microsoft Excel.
+- Skilled in conducting Exploratory Data Analysis (EDA) to uncover patterns and trends in datasets.
+- Proficient in utilizing Python, including Pandas and NumPy, for efficient data analysis tasks.

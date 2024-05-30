@@ -1,15 +1,14 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'Transcation Analysis'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+github: 'https://github.com/HaseebWar/Transcation_Analysis'
+external: '#'
 tech:
   - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Python
+  - Detection
+  - Machine Learning
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Analyzing a transaction dataset to detect fraudulent activities using various [Machine Learning Models](https://www.databricks.com/glossary/machine-learning-models), including [Naive Bayes](https://www.geeksforgeeks.org/naive-bayes-classifiers/), [Logistic Regression](https://www.ibm.com/topics/logistic-regression), and [Decision Trees](https://scikit-learn.org/stable/modules/tree.html) compared based on their accuracy and confusion matrices to determine the most effective classifier for fraud detection.
