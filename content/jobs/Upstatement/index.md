@@ -1,6 +1,6 @@
 ---
 date: '2023-01-01'
-title: 'Data Analyst'
+title: 'Quality Assurance Analyst'
 company: 'ClientPoint'
 location: 'Karachi, Pakistan'
 range: 'Jan 2023 - Present'

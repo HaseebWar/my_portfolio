@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Transcation Analysis'
+title: 'Transaction Analysis'
 cover: './halcyon.png'
 github: 'https://github.com/HaseebWar/Transcation_Analysis'
 external: '#'
