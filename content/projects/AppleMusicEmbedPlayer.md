@@ -1,14 +1,14 @@
 ---
 date: '2017-12-01'
-title: 'Web Phishing Detection'
-github: 'https://github.com/HaseebWar/Web-Phishing-Detection'
-external: '#'
+title: 'Apple Music Embeddable Web Player Widget'
+github: ''
+external: 'https://tools.applemusic.com/en-us'
 tech:
-  - Python
-  - Detection
-  - Machine learning
-company: ''
+  - MusicKit.js
+  - JS
+  - SCSS
+company: 'Apple'
 showInProjects: true
 ---
 
-Develop and compare machine learning-based frameworks for reliably identifying phishing websites, addressing the limitations of blacklist-based methods.
+Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging [MusicKit.js](https://developer.apple.com/documentation/musickitjs). Read more about this project on [9to5Mac](https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/).

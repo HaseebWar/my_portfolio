@@ -1,13 +1,13 @@
 ---
-date: ''
-title: 'Educational Analysis'
-github: 'https://github.com/HaseebWar/educational-analysis'
-external: '#'
+date: '2019-07-15'
+title: 'OctoProfile'
+github: 'https://github.com/bchiang7/octoprofile'
+external: 'https://octoprofile.now.sh'
 tech:
-  - ANN 
-  - Prediction
-  - Dataframe
+  - Next.js
+  - Chart.js
+  - GitHub API
 showInProjects: true
 ---
 
-Applied and compared classification algorithms, and found that excessive use of e-learning tools significantly impacts student performance and psychological health.
+A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.

@@ -5,13 +5,13 @@ module.exports = {
     title: 'Muhammad Haseeb',
     description:
       'xyz',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://haseebwar.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '#',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-styled-components`,
+    `gatsby-plugin-styled-components`, 
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
@@ -19,7 +19,7 @@ module.exports = {
     `gatsby-plugin-robots-txt`,
     {
       resolve: `gatsby-plugin-manifest`,
-      options: {
+      options: { 
         name: 'Brittany Chiang',
         short_name: 'Brittany Chiang',
         start_url: '/',

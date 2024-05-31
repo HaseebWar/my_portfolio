@@ -1,13 +1,12 @@
 ---
 date: '2016-08-01'
-title: 'DDOS Attack'
-github: 'https://github.com/HaseebWar/DDOSATTACK'
-external: '#'
+title: 'React Profile'
+github: 'https://github.com/bchiang7/react-profile'
+external: 'https://bchiang7.github.io/react-profile/'
 tech:
-  - Python
-  - Shell
-  - Topology
+  - React
+  - CSS
 showInProjects: true
 ---
 
-DDoS attack is like a flood of fake requests that clog up a server, making it unavailable to legitimate users.
+Online version of my 2016 resume made for fun. I was interested in learning React.js, so I found a simple tutorial and it spun into a weekend project.

@@ -1,14 +1,15 @@
 ---
 date: '2016-11-01'
-title: 'K-mean on Mall Data'
-github: 'https://github.com/HaseebWar/K_mean_on_Mall_Data'
-external: '#'
+title: 'Screentime 2.0'
+github: ''
+external: 'https://starry.com/blog/product/whats-new-screentime-just-got-better-for-parents'
+android: 'https://play.google.com/store/apps/details?id=com.starry.management&hl=en_US'
 tech:
-  - Jupyter Notebook
-  - Python
-  - K-mean
+  - Cordova
+  - Backbone
+  - Marionette
 company: 'Starry'
 showInProjects: true
 ---
 
-Applying K-mean to the mall dataset the code is basically making the cluster of the dataset by identifying the the age and their speeding score
+Starry Station android app feature that provided users with the ability to easily filter content, pause the internet, and even create custom rules for blocking apps like Facebook and Twitter right from their phones.

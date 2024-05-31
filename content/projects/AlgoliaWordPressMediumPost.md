@@ -1,14 +1,14 @@
 ---
 date: '2020-03-27'
-title: 'Apriori Algorithm to Discover Association Rules'
-github: 'https://github.com/HaseebWar/Apriori-algorithm-to-discover-association-rules'
-external: '#'
+title: 'Integrating Algolia Search with WordPress Multisite'
+github: ''
+external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
 tech:
-  - Python
-  - Apriori Algorithm
-  - Data Analysis
-company: ''
+  - Algolia
+  - WordPress
+  - PHP
+company: 'Upstatement'
 showInProjects: true
 ---
 
-Steps to import data, visualize it, apply the Apriori algorithm to discover association rules, and evaluate the results.
+Building a custom multisite compatible WordPress plugin to build global search with Algolia
