@@ -1,12 +1,13 @@
 ---
-date: '2017-10-01'
+date: '2019-11-12'
 title: 'Simple Image Processing'
 github: 'https://github.com/HaseebWar/SimpleImageProcessing'
-external: '#'
+external: ''
 tech:
+  - Image Processing
   - Python
-  - Image
-  - Processing
+  - RGB to Gray
+company: ''
 showInProjects: true
 ---
 

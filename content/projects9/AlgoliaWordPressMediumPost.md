@@ -1,13 +1,13 @@
 ---
-date: '2017-12-01'
+date: '2020-03-27'
 title: 'Web Phishing Detection'
 github: 'https://github.com/HaseebWar/Web-Phishing-Detection'
-external: '#'
+external: ''
 tech:
+  - Jupyter Notebook
   - Python
-  - Detection
-  - Machine learning
-company: ''
+  - Logistic Regression
+company: 'Upstatement'
 showInProjects: true
 ---
 
