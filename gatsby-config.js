@@ -3,16 +3,15 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: 'Muhammad Haseeb',
-    description:
-      'xyz',
+    description: 'xyz',
     siteUrl: 'https://haseebwar.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '#',
   },
-  pathPrefix: "/portfolio",
+  pathPrefix: '/my_portfolio',
   plugins: [
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-styled-components`, 
+    `gatsby-plugin-styled-components`,
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
@@ -20,10 +19,10 @@ module.exports = {
     `gatsby-plugin-robots-txt`,
     {
       resolve: `gatsby-plugin-manifest`,
-      options: { 
+      options: {
         name: 'Brittany Chiang',
         short_name: 'Brittany Chiang',
-        start_url: '/',
+        start_url: '/public',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
