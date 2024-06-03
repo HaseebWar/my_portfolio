@@ -1,13 +1,13 @@
 ---
 date: '2019-07-15'
 title: 'Stock Price Prediction'
-github: ''
+github: 'https://github.com/HaseebWar/Indian-Stock-Price'
 external: ''
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Pyhton
+  - Github
+  - Prediction
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+Combines Machine Learning Models for a time-series approach to predict stock prices, incorporating data preprocessing, model training, and evaluation.

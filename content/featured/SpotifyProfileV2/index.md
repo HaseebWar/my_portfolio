@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'Deep Learning Time-Series Approach'
+title: 'DL Time-Series Approach'
 cover: './course-card.png'
 external: 'https://github.com/HaseebWar/time-series-approach-based-on-combining-deep-learning-models'
 cta: '#'
