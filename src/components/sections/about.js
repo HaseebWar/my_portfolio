@@ -125,13 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = [
-    'Apache Spark',
-    'SQL', 
-    'Python', 
-    'R-Studio', 
-    'Power BI', 
-    'Excel'];
+  const skills = ['Apache Spark', 'SQL', 'Python', 'R-Studio', 'Power BI', 'Excel'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,25 +135,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Muhammad Haseeb and I enjoy creating things that live on the internet. My
-              interest in Data started back in 2020 when I decided to move into data fields I try doing different
-              projects and turns out I really enjoy it.
+              Hello! My name is Muhammad Haseeb and I enjoy creating things that live on the
+              internet. My interest in Data started back in 2020 when I decided to move into data
+              fields I try doing different projects and turns out I really enjoy it.
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="Client Point">ClientPoint</a>,{' '}
-              <a href="">a huge corporation</a>, and{' '}
-              .My main focus these days is building projects, related to LLM's and AI
-              and go to <a href="https://upstatement.com/">Fiver</a> for a variety of
-              clients.
+              <a href="https://www.clientpoint.net/">ClientPoint</a>. .My main focus these days is
+              building projects, related to LLM's and AI and go to{' '}
+              <a href="https://www.fiverr.com/s/0bbb2wE">Fiver</a> for a variety of clients.
             </p>
 
             <p>
-              I also recently recevied an expert title on {' '}
-              <a href="https://www.kaggle.com/haseebwar07">
-                Kaggle. 
-              </a>
+              I also recently recevied an expert title on{' '}
+              <a href="https://www.kaggle.com/haseebwar07">Kaggle.</a>
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
