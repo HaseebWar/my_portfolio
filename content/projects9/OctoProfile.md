@@ -1,7 +1,7 @@
 ---
 date: '2019-07-15'
 title: 'Stock Price Prediction'
-github: ''
+github: 'https://github.com/HaseebWar/Indian-Stock-Price'
 external: ''
 tech:
   - Next.js
